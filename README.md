@@ -98,3 +98,7 @@ The dataset used in this project consists of structured data relevant to the pre
 ## Conclusion
 This project demonstrates a complete **end-to-end predictive analysis pipeline**, from **data preprocessing to model deployment**. The use of machine learning models provides valuable insights and helps in making data-driven predictions efficiently.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0fa1b139-ef87-454a-a262-5f47360204a4)
+![Image](https://github.com/user-attachments/assets/e665650a-5c07-475f-9d1c-0f6a3939c824)
